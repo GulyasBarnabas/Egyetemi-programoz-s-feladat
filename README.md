@@ -1,0 +1,1 @@
+Programozás 1 tárgyhoz tartozó házi feladat. C nyelven írt egyszerű program,a forráskód megtalalható a hazi.c fájlban, a többi fájl a beolvasáshoz és fájlba íráshoz szükséges. A specifikáció is megtalálható egy pdf fájlban.
